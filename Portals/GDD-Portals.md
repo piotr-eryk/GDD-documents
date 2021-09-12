@@ -15,12 +15,14 @@ The target game platform will be Windows PC only.
   
 ### Visual Style 
 The environment in the game is supposed to resemble a sterile laboratory matching a place for testing dangerous objects or mechanisms. The light is uniform, full of cool colors. The only exceptions to this rule are objects that point the player to the way or those that draw the player's attention to something specific. 
+![Visual Style](Screenshots/GameVisuals.png)
   
 ### Audio Style 
 The game should be devoid of music most of the time. The only sound the player can hear is from his footsteps or surrounding machines. 
   
 ### Game Menu 
 The game menu is minimalistic - the player can only start a new game or select any level that has been completed. After the player is selecting a level, the player immediately starts the game. 
+![Visual Style](Screenshots/MainMenu.png)
   
 ### Game Start
 Although the game does not include a tutorial, the initial levels should show the player how to use the basic mechanics of the game based on simple puzzles. In the same way, the game introduces the player to new mechanics throughout the levels. 
@@ -50,6 +52,8 @@ Later stages also force the player to creatively combine all the previously lear
 There are many types of obstacles in the game that kill the player's character. In addition to such obstacles as lasers or missiles, the player may encounter automatic cannons that track his position, or dangerous surfaces (spikes or, for example, lava).
 
 The player character can catch the cubes placed on different levels. Although the cubes look similar, some of them have additional visible properties - for example, some shoot a laser beam, others can manipulate gravity. The player must use these cubes to make their way to the exit. However, that such a cube can kill the player if the laser of the cube touches the player's character.
+
+![Player used cube to open door](Screenshots/GameMechanic.png)
 
 ### Controls
 The player controls the character using the WASD buttons, with the mouse using to turn around. Interacting with objects is done by pressing the left mouse button.
